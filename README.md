@@ -1,2 +1,2 @@
-# Exercise3
+# Exercise 3
 Topic Modeling
