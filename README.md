@@ -1,2 +1,2 @@
 # Exercise 3
-Topic Modeling
+Topic Modeling with BERTopic
